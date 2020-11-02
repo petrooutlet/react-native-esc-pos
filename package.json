@@ -1,7 +1,7 @@
 {
   "name": "@wellbrighttech/react-native-esc-pos",
   "description": "A React Native ESC/POS module to help you connect to your ESC/POS printer easily.",
-  "version": "0.9.0",
+  "version": "0.9.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leesiongchan/react-native-escpos.git",

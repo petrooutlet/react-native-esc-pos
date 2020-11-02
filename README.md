@@ -6,7 +6,6 @@ This is a patched fork of [@leesiongchan/react-native-esc-pos](https://github.co
 
 ## Differences:
 * `{H1}`, `{H2}`, & `{H3}` don't have new-lines following them
-* A new `{NL}` escape code was added allowing for hard new-lines anywhere on the print
 
 ## Installation:
 
