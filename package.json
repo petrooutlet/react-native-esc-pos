@@ -1,5 +1,5 @@
 {
-  "name": "@leesiongchan/react-native-esc-pos",
+  "name": "@wellbrighttech/react-native-esc-pos",
   "description": "A React Native ESC/POS module to help you connect to your ESC/POS printer easily.",
   "version": "0.9.0",
   "repository": {
@@ -9,8 +9,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Lee Siong Chan",
-    "email": "ahlee2326@me.com"
+    "name": "Mahdi Hussein",
+    "email": "mahdi@petrooutlet.com"
   },
   "keywords": [
     "bluetooth",
